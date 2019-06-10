@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237980177608",
+    "firebase_url": "https://flutterimage-8280c.firebaseio.com",
+    "project_id": "flutterimage-8280c",
+    "storage_bucket": "flutterimage-8280c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237980177608:android:e07a4cd0434e92b3",
+        "android_client_info": {
+          "package_name": "com.example.flutterimageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237980177608-u0p0l2ruf8fktr8b8n2vkfl68egeb2g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh7ComqXhIdMDfnhcd3WjqLM7O9Mskhm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237980177608-u0p0l2ruf8fktr8b8n2vkfl68egeb2g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
